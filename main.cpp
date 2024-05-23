@@ -10,7 +10,7 @@ int main(int argc, char* argv[]){
 
     int sum = a + b;
 
-    std::cout << sum << " " << name;
+    std::cout << sum << " " << name << " ";
 
     return 0;
 }
